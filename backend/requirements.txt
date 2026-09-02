@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+python-multipart
+pydantic
+python-dotenv
+pandas
+networkx
+spacy
+neo4j
